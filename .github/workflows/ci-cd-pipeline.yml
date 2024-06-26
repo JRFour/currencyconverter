@@ -6,9 +6,9 @@ on:
       - main
     tags:
       - 'v*.*.*'
- 
+
 env:
-  DOCKER_IMAGE: afakharany/currencyconverter
+  DOCKER_IMAGE: jreale4/currencyconverter
 
 jobs:
   test:
